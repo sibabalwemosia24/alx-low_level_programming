@@ -4,4 +4,5 @@
 3-name- compiles a C files and create an executable name cisfun\n
 4-puts.c- writes a c program using puts
 5-printf.c- writes a c rogram using printf
-6-size.c-program that prints the size of various types on the computer it is compiled and run on 
+6-size.c-program that prints the size of various types on the computer it is compiled and run on
+100-intel- generates the assembly code of a Ccode and save it in an out file 
