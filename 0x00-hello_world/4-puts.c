@@ -3,7 +3,7 @@
 int main()
 {
 	printf("Programming is like building a multilingual puzzle\n");
-	puts(str)
+	puts(str);
 
 	return 0;
 }
