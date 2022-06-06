@@ -5,8 +5,9 @@
 int main(void)
 {
 	puts("Programming is like building a multilingual puzzle\n");
+	/**
+	* return: returns value to 0
+	*/
 	return (0);
 }
-/**
-* return: returns to 0
-*/
+
