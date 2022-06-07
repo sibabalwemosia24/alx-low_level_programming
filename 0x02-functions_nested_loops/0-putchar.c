@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include "main.h"
 /**
  * main- print putcher followed by new line
  *
@@ -6,7 +6,7 @@
  */
 in main(void)
 {
-	char *sh = stdio;
+	char *sh = "main.h";
 	
 	while(*sh)
 	{
