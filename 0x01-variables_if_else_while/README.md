@@ -7,4 +7,4 @@
 6-print_numbers.c- prints all sing digit numbers of base 10 starting 0
 7-print_tebahpla.c- prints the aplhabet in lowercase in reverse
 8-print_base16.c- prints all the numbers of base 16
-
+9-print_comb.c- prints combination of single digit numbers
