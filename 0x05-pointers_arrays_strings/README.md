@@ -5,3 +5,4 @@
 >>>>>>> da0d2083f9ffae1c09f0d985366f42a4e2fb3919
 1-swap.c - swaps the values od two intergers
 2-strlen.c- returns the length of a string
+3-puts.c- prints a string followed by a new line
