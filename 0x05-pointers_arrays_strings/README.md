@@ -12,4 +12,4 @@
 7-puts_half.c- prints half of a string 
 8-print_array.c- prints n elements of an array of intergers
 9-strcpy.c- copies the string pointed to by src, including the terminating null byte
-
+100-atoi.c- convert a string to an integer
