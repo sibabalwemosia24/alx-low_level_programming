@@ -6,4 +6,5 @@
 1-swap.c - swaps the values od two intergers
 2-strlen.c- returns the length of a string
 3-puts.c- prints a string followed by a new line
-4-print_reve.c- prints string in verse 
+4-print_reve.c- prints string in verse
+5-rev_string.c- reverses a string 
