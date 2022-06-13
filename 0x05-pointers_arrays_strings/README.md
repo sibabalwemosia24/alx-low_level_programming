@@ -11,3 +11,5 @@
 6-puts2.c- prints every other charecter of string starting with the first character
 7-puts_half.c- prints half of a string 
 8-print_array.c- prints n elements of an array of intergers
+9-strcpy.c- copies the string pointed to by src, including the terminating null byte
+
