@@ -7,3 +7,4 @@
 6-cap_string.c- capitalizes all words of a string
 7-leet.c - encodes a string into 13377-leet.c - encodes a string into 13377-leet.c - encodes a string into 13377-leet.c - encodes a string into 13377-leet.c - encodes a string into 13377-leet.c - encodes a string into 13377-leet.c - encodes a string into 1337
 101-rot13.c- encodes a string using rot13
+101-print_number.c-prints an interger
