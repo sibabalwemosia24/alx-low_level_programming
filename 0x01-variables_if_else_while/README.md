@@ -3,3 +3,4 @@
 1. Program assigns a random number to n each time it  is executed and prints the last digit of the number stored in n
 2. Program prints the alphabet in lowercase, followd by a new line.
 3. Program prints the alphabet in lowercase and then in uppercase, followed by a new line
+4. Program prints the alphabet in lowercase except q and e
