@@ -9,3 +9,4 @@
 7. Program prints lowecase alphabet in reverse
 8. Program prints alll numbers of base 16 in lowercase
 9. Program prints all possible combinations of sing digit numbers seperated by , followed by a space in ascending order
+100. Program prints all possible cobinations of two digits seperated by a , collowed by a space in ascending order
