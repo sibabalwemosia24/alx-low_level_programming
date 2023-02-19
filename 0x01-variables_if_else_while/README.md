@@ -11,3 +11,4 @@
 9. Program prints all possible combinations of sing digit numbers seperated by , followed by a space in ascending order
 100. Program prints all possible cobinations of two digits seperated by a , collowed by a space in ascending order
 101. Program prints all possible combinations of 3 digit seperated by a , and a space ind ascending order
+102. Program prints all possible combinations of two digit numbers seperated by a space
