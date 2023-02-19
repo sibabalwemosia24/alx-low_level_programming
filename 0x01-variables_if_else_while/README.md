@@ -8,3 +8,4 @@
 6. Program prints all single didgit numbers of base 10 starting from 0 without using char variable type
 7. Program prints lowecase alphabet in reverse
 8. Program prints alll numbers of base 16 in lowercase
+9. Program prints all possible combinations of sing digit numbers seperated by , followed by a space in ascending order
