@@ -4,3 +4,4 @@
 2. Program prints the alphabet in lowercase, followd by a new line.
 3. Program prints the alphabet in lowercase and then in uppercase, followed by a new line
 4. Program prints the alphabet in lowercase except q and e
+5. Program prints all single digit numbers of base 10 starting from 0
