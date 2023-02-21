@@ -15,3 +15,10 @@
 - How to declare variables and how to assign values to variable
 - How to use while loops and how to use variables with while loops
 - Printing variables using printf
+## 0x02- Functions, nested loops
+- Nested loops and how to use them
+- Functions ad how to use them
+- Difference between declarations and functions
+- Prototypes
+- Scope of variables
+- Header files and how to use them
