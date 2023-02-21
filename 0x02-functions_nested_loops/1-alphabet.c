@@ -2,6 +2,7 @@
 
 /**
  * print_alphabet - prints the alphabet in lowercase, followed by a new line
+ * Description: uses print_alphabet function to print alphabet in lowercase
  * Return: 0
  */
 void print_alphabet(void)
@@ -14,17 +15,6 @@ void print_alphabet(void)
 	{
 		_putchar(ch);
 		ch++;
+		_putchar('\n');
 	}
-}
-/**
- * main - print alphabet
- * Description: uses print_alphabet funtion followed by new line
- * Return: 0
- */
-int main(void)
-{
-	print_alphabet();
-	_putchar('\n');
-
-	return (0);
 }
