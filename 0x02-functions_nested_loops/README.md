@@ -8,3 +8,4 @@
 6. function computes the absolute value of an integer
 7. Function prints the last digit of a number
 8. Function prints every minutes of the day
+9. Function that prints the 9 times tables
