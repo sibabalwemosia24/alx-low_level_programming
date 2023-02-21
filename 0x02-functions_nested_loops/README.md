@@ -9,3 +9,4 @@
 7. Function prints the last digit of a number
 8. Function prints every minutes of the day
 9. Function that prints the 9 times tables
+10. Function add two integers and returns result
