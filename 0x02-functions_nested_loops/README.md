@@ -7,3 +7,4 @@
 5. Function prints the sign of a number
 6. function computes the absolute value of an integer
 7. Function prints the last digit of a number
+8. Function prints every minutes of the day
