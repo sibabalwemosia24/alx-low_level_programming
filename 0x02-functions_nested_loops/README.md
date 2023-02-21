@@ -10,3 +10,4 @@
 8. Function prints every minutes of the day
 9. Function that prints the 9 times tables
 10. Function add two integers and returns result
+11. Function prints all numbers from n to 98
