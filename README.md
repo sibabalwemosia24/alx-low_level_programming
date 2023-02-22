@@ -22,3 +22,7 @@
 - Prototypes
 - Scope of variables
 - Header files and how to use them
+## 0x03- Debugging
+- What is debugging
+- Mothods of debbuging manually
+- How to read error messages
