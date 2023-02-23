@@ -7,3 +7,4 @@
 5. Function prints numbers 0 to 14 ten times
 6. Fuction draws a straight line in terminal
 7. Function draws a diagonal line on the terminal
+8. Function prints a square
