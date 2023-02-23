@@ -26,3 +26,10 @@
 - What is debugging
 - Mothods of debbuging manually
 - How to read error messages
+## 0x04- More funtctions and nested loops
+- Nested loops and how to use them
+- Functions ad how to use them
+- Difference between declarations and functions
+- Prototypes
+- Scope of variables
+- Header files and how to use them
