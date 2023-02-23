@@ -8,3 +8,4 @@
 6. Fuction draws a straight line in terminal
 7. Function draws a diagonal line on the terminal
 8. Function prints a square
+9. Program prints number from 1 to 100 but print fizz for multiples of 3 and buzz for multiples of 5
