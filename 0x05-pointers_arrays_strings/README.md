@@ -5,3 +5,4 @@
 3. Function prints a string followed by a new line to stdout
 4. Function print a string in reverse followed by a new line
 5. Function reverses a string
+6. Function prints every other character of a string, starting with first character
