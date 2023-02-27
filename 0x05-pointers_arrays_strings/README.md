@@ -4,3 +4,4 @@
 2. Function returns the length of a string
 3. Function prints a string followed by a new line to stdout
 4. Function print a string in reverse followed by a new line
+5. Function reverses a string
