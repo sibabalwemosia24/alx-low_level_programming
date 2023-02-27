@@ -7,3 +7,4 @@
 5. Function reverses a string
 6. Function prints every other character of a string, starting with first character
 7. Function prints half of a string
+8. Function prints n elements of an array of integers
