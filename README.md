@@ -33,3 +33,9 @@
 - Prototypes
 - Scope of variables
 - Header files and how to use them
+## 0x05- Pointers, arrays and strings
+- Pointers anf how to use them
+- Arrays and how to use them
+- Differences between pointers and arrays
+- Strings and and how to manipulate them
+- Sope of variables
