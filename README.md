@@ -45,3 +45,9 @@
 - Differences between pointers and arrays
 - Strings and and how to manipulate them
 - Sope of variables
+## 0x06- Even more pointers, arrays and strings
+- Pointer and how to use them
+- Arrays and how to use them
+- Differences between pionters and arrays
+- Strings and how to manipulate them
+- Scope of variables
