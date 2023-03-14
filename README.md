@@ -54,3 +54,5 @@
 ## 0x08 - Recursion
 - Recursion and how to emplement it
 - wher on should and shouldnt use recursion
+## 0x09- Static Libraries
+- Statis libraries, how they work, how to create one and how to use one
