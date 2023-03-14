@@ -6,3 +6,4 @@
 4. Function searches a string for any set of bytes
 5. Fuction locates a substring
 6. fuction prints the chessboard
+7. Fuction print the sum of two digonals of a sqaure matrix of intergers
