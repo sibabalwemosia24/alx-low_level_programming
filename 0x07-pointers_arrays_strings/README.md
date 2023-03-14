@@ -4,3 +4,4 @@
 2. Fuction locates a character in a string
 3. Function gets the length of the prefix substring
 4. Function searches a string for any set of bytes
+5. Fuction locates a substring
