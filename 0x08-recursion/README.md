@@ -1,2 +1,3 @@
 ## 0x08- Recursion
-0. funx=ction prints a string
+0. function prints a string
+1. function prints a string in reverse
