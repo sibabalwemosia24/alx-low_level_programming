@@ -5,4 +5,5 @@
 3. function returns the factorial of a given number
 4. function returns the value of x raised to the power of y 
 5. fuuction returns the natural square root of a number
-6. function returns 1 if the input interger is a prime number othewise 0
+6. function returns 1 if the input interger is a prime number othewise
+100. function reurns 2=1 if string is a palindrome and 0 if not
