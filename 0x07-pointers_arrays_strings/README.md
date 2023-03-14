@@ -7,3 +7,4 @@
 5. Fuction locates a substring
 6. fuction prints the chessboard
 7. Fuction print the sum of two digonals of a sqaure matrix of intergers
+100. Fuction sets the value of a pointer to a char
