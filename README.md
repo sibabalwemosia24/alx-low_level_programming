@@ -64,4 +64,6 @@
 - Difference between automatic and dynamic allocation
 - Malloc and Free and how to use them
 - How to use valgrind to check for memory leak
-
+## 0x0C- more malloc, free
+- How to use exit function
+- What are the functions calloc and realloc from the standard library and how to use them
