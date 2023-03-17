@@ -2,3 +2,4 @@
 0. function allocates memory using malloc
 1. function concatenates two strings
 2. function allocates memory for an array using malloc
+3. function creates an array of intergers
