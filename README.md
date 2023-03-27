@@ -78,3 +78,6 @@
 - Function pointers and how to use them
 - What does a function pointer hold
 - Where does a function pointer vpoint to in the virtual memory
+## 0x10- Variadic functions
+- Variadicc functions and how to va_start and va_end macras 
+- Why and how to use the const type qualifier
