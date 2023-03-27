@@ -4,7 +4,7 @@
 #include <stdarg.h>
 
 /**
- * prints_strings - prints strings
+ * print_strings - prints strings
  * @separator: the string to be printed between the strings
  * @n: the number of arguments passed to the function
  *
