@@ -74,3 +74,7 @@
 ## 0x0E- structures typedef
 - Structures and how, why and when to use them
 - how to use typedef
+## 0x0F- Function pointers
+- Function pointers and how to use them
+- What does a function pointer hold
+- Where does a function pointer vpoint to in the virtual memory
