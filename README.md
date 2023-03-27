@@ -67,3 +67,7 @@
 ## 0x0C- more malloc, free
 - How to use exit function
 - What are the functions calloc and realloc from the standard library and how to use them
+# 0x0D- Preprocessor
+- Macros and how to use them
+- Common predefined macros
+- How to include guard header files
