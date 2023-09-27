@@ -6,3 +6,4 @@
 4. Functin returns the value of x raised to the power of y
 5. Function return the natural square root of a number
 6. Function return 1 if the input interger is a prime
+100. Function that returns 1 if a string is a palindrome
