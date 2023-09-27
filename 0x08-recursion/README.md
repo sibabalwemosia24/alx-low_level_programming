@@ -3,3 +3,4 @@
 1. Function prints a string in reverse
 2. Function returns the length of a string
 3. Fuction returns the factorial of a given number
+4. Functin returns the value of x raised to the power of y
