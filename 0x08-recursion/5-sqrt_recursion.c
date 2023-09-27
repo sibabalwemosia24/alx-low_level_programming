@@ -17,7 +17,7 @@ int _sqrt_recursion(int n)
  * @i: iterator
  * Return: number
  */
-int _sqrt(int, n int i)
+int _sqrt(int n, int i)
 {
 	int square = i * i;
 
