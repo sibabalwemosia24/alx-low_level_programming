@@ -6,3 +6,4 @@
 3. Function returns a pointer to a 2 dimensional array of intergers
 4. Function frees a 2 dimensional grid prevously created by alloc_grid function
 100. Function that concatenates all the arguments of your program
+101. Function that splits a string into words
