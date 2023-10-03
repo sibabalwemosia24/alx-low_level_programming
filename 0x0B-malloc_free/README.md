@@ -4,3 +4,4 @@
 1. Function returns a pointer to a newly allocated space in memory, which contains a copy of the string given as a parameter
 2. Function concatenates two strings
 3. Function returns a pointer to a 2 dimensional array of intergers
+4. Function frees a 2 dimensional grid prevously created by alloc_grid function
