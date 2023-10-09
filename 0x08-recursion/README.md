@@ -7,3 +7,4 @@
 5. Function return the natural square root of a number
 6. Function return 1 if the input interger is a prime
 100. Function that returns 1 if a string is a palindrome
+101. Function compares two strings and returns 1 if the strings can be considered identical otherwise return 0
