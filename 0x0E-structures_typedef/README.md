@@ -1,3 +1,4 @@
 #0x0E-structures_typedef
 1. Function that initialize a variable of type struct dog
 2. Function that prints a struct dog
+4. Function that creates a new dog
