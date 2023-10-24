@@ -12,4 +12,5 @@
 10. Function deletes the node at index "index" of a listint_t linked list
 100. Fuction reverses a litsint_t linked list
 101. Function prints a listint_t linked list
-102.Function frees a listint_t list
+102. Function frees a listint_t list
+103. Function finds the loop in a linked list
