@@ -11,3 +11,4 @@
 9. Function inserts a new node at a given position
 10. Function deletes the node at index "index" of a listint_t linked list
 100. Fuction reverses a litsint_t linked list
+101. Function prints a listint_t linked list
