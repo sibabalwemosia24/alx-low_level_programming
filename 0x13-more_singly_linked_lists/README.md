@@ -7,3 +7,4 @@
 5. Function frees a listint_t list
 6. Funtion deletes the head node of a listint_t linked list and returns the head
 7. Function returns the nth node of a listint_t linked list
+8. Function returns the sum of all the data (n) of a listint_t linked list
