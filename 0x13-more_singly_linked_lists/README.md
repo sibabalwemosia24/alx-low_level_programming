@@ -5,3 +5,4 @@
 3. Function adds a new node at the end of a listint_t list
 4. Function frees a listint_t list
 5. Function frees a listint_t list
+6. Funtion deletes the head node of a listint_t linked list and returns the head
