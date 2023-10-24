@@ -8,3 +8,4 @@
 6. Funtion deletes the head node of a listint_t linked list and returns the head
 7. Function returns the nth node of a listint_t linked list
 8. Function returns the sum of all the data (n) of a listint_t linked list
+9. Function inserts a new node at a given position
